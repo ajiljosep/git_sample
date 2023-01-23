@@ -1,3 +1,6 @@
-helo =" My name is Ajil Jose "
+a=" My name is Ajil Jose "
+b="working in autodesk"
 
-print(helo)
+
+print(a)
+print(b)
